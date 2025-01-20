@@ -1,4 +1,5 @@
 performanceAnalyzerChallenge
+
 Creio que tenho alguns resultados da Analise.
 
 Coloquei na raiz do projecto o ficheiro .odt obtido com o apoio à analise.
